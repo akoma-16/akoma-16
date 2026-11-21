@@ -15,10 +15,10 @@ Tells facility managers which equipment is likely to fail, before it breaks. An 
 |:-:|:-:|:-:|
 | **98.70%** | **0.9789** | **2** (.NET + Flask) |
 
-**[StockGuard](https://github.com/akoma-16)** <!-- TODO: replace with the StockGuard repo link --> · *in progress*
+**[StockGuard](https://github.com/akoma-16/StockGuard)** · *in progress*
 Stock software for Nigerian pharmacies. Tracks drug expiry dates and enforces first-in, first-out dispensing so older stock sells before it expires. ASP.NET Core MVC, EF Core, SQLite, .NET 10.
 
-**[Subtrak](https://github.com/akoma-16)** <!-- TODO: replace with the Subtrak repo link --> · *in progress*
+**[Subtrak](https://github.com/akoma-16/Subtrak)** · *in progress*
 A subscription tracker that puts every renewal on a calendar. Add a subscription and its billing cycle, then click any day to see what's due. Built in ASP.NET Core from a Figma design.
 
 **Client websites**
