@@ -8,7 +8,7 @@
 
 ### 🔧 What I've built
 
-**[PFMS: Predictive Facility Maintenance System](https://github.com/akoma-16)** <!-- TODO: replace with the PFMS repo link -->
+**[PFMS: Predictive Facility Maintenance System](https://github.com/akoma-16/PFMS_MVC)**
 Tells facility managers which equipment is likely to fail, before it breaks. An ASP.NET Core MVC app (EF Core code-first, SQL Server) calls a separate Python/Flask service that runs a Random Forest model trained on the AI4I 2020 industrial dataset.
 
 | Accuracy | AUC | Services |
@@ -53,18 +53,3 @@ A subscription tracker that puts every renewal on a calendar. Add a subscription
 - Email: [akomachindubuka16@gmail.com](mailto:akomachindubuka16@gmail.com)
 - LinkedIn: [Akomachi Ndubuka](https://www.linkedin.com/in/akomachi-ndubuka-9601b7349)
 - Portfolio: [akoma-16.github.io/main-portfolio](https://akoma-16.github.io/main-portfolio/)
-
-<!--
-**akoma-16/akoma-16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
